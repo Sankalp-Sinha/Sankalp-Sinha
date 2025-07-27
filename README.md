@@ -78,8 +78,8 @@
 
 <h2 align="left">⚡ Activity Graph</h2>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalp-Sinha
-&theme=react-dark" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalp-Sinha&theme=react-dark" />
+
 
 ---
 
