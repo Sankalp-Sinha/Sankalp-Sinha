@@ -13,7 +13,7 @@
 
 ### 🌐 Connect with me:
 
-- 🌍 [LinkedIn]([https://www.linkedin.com/in/himanshu-tiwari-97a738291/](https://www.linkedin.com/in/sankalp-kumar-sinha-237246292/))
+- 🌍 [LinkedIn](https://www.linkedin.com/in/sankalp-kumar-sinha-237246292/)
 - 💻 [GitHub](https://github.com/Sankalp-Sinha)
 - 🧠 [LeetCode](https://leetcode.com/u/sankalp_sinha/)
 - 🏁 [Codeforces](https://codeforces.com/profile/sankalp_code)
