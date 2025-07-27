@@ -47,20 +47,20 @@
 <h3 align="left">⭐ Stars</h3>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp-Sinha
-&layout=compact&theme=dark" alt="ht986648" />
+&layout=compact&theme=dark" alt="Sankalp-Sinha" />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sankalp-Sinha
-&show_icons=true&locale=en&theme=dark" alt="ht986648" /></p>
+&show_icons=true&locale=en&theme=dark" alt="Sankalp-Sinha" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp-Sinha
-&theme=dark" alt="ht986648" /></p>
+&theme=dark" alt="Sankalp-Sinha" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">📊 Statistics</h3>
 
 <div align="center">
-  <a href="https://github.com/ht986648">
+  <a href="https://github.com/Sankalp-Sinha">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sankalp-Sinha
 &theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankalp-Sinha
