@@ -1,16 +1,98 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!--
-**Sankalp-Sinha/Sankalp-Sinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm sankalp kumar sinha</h1>
+<h3 align="center">Passionate Developer from India</h3>
+<h3 align="center">Aspiring Full Stack & Blockchain Developer | 2027 Batch @ IIIT Bhagalpur</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Web3, Smart Contracts, and Next.js**  
+- 🔭 I’m currently working on **a blockchain-based contract management platform**  
+- 💬 Ask me about **React, Next.js, Prisma, Web3, Smart Contracts, Node.js**  
+- 📫 Email: **himanshu.230101059@iiitbh.ac.in**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/himanshu-tiwari-97a738291/)
+- 💻 [GitHub](https://github.com/ht986648)
+- 🧠 [LeetCode](https://leetcode.com/u/HimanshuTiwari206123/)
+- 🏁 [Codeforces](https://codeforces.com/profile/ht976648)
+- 🌐 [Portfolio Website](https://portfolio-jet-pi-55.vercel.app/)
+
+---
+
+
+---
+
+### ⚒️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+
+</p>
+<h3 align="left">⭐ Stars</h3>
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp-Sinha
+&layout=compact&theme=dark" alt="ht986648" />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sankalp-Sinha
+&show_icons=true&locale=en&theme=dark" alt="ht986648" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp-Sinha
+&theme=dark" alt="ht986648" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">📊 Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/ht986648">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sankalp-Sinha
+&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankalp-Sinha
+&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sankalp-Sinha
+&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankalp-Sinha
+&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalp-Sinha
+&theme=2077" height="180em" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">⚡ Activity Graph</h2>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalp-Sinha
+&theme=react-dark" />
+
+---
+
+### 📊 GitHub Stats:
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankalp-Sinha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp-Sinha&layout=compact&theme=radical)
+
+---
+
+### 🏆 Competitive Programming:
+- Solved **1000+ DSA problems** across platforms
+- Active on **LeetCode** and **Codeforces**
+
+---
+
+
