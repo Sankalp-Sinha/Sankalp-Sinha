@@ -1,23 +1,23 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">Hi 👋, I'm sankalp kumar sinha</h1>
+<h1 align="center">Hi 👋, I'm Sankalp Kumar Sinha</h1>
 <h3 align="center">Passionate Developer from India</h3>
-<h3 align="center">Aspiring Full Stack & Blockchain Developer | 2027 Batch @ IIIT Bhagalpur</h3>
+<h3 align="center">Aspiring Software Developer & Web Developer | 2027 Batch @ IIIT Bhagalpur</h3>
 
-- 🌱 I’m currently learning **Web3, Smart Contracts, and Next.js**  
-- 🔭 I’m currently working on **a blockchain-based contract management platform**  
-- 💬 Ask me about **React, Next.js, Prisma, Web3, Smart Contracts, Node.js**  
-- 📫 Email: **himanshu.230101059@iiitbh.ac.in**
+- 🌱 I’m currently learning **Devops, Daata Structure and Algorithms, and Next.js**  
+- 🔭 I’m currently working on **Full-Stack project with integrated AI features**  
+- 💬 Ask me about **React, Next.js, Express.js, Prisma, Node.js, MongoDB, PostgreSQL, Javascript, TailwindCSS**  
+- 📫 Email: **sankalpsinha620@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/himanshu-tiwari-97a738291/)
-- 💻 [GitHub](https://github.com/ht986648)
-- 🧠 [LeetCode](https://leetcode.com/u/HimanshuTiwari206123/)
-- 🏁 [Codeforces](https://codeforces.com/profile/ht976648)
-- 🌐 [Portfolio Website](https://portfolio-jet-pi-55.vercel.app/)
+- 🌍 [LinkedIn]([https://www.linkedin.com/in/himanshu-tiwari-97a738291/](https://www.linkedin.com/in/sankalp-kumar-sinha-237246292/))
+- 💻 [GitHub](https://github.com/Sankalp-Sinha)
+- 🧠 [LeetCode](https://leetcode.com/u/sankalp_sinha/)
+- 🏁 [Codeforces](https://codeforces.com/profile/sankalp_code)
+- 🏁 [CodeChef](https://www.codechef.com/users/sankalpsinha)
 
 ---
 
@@ -84,14 +84,14 @@
 ---
 
 ### 📊 GitHub Stats:
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankalp-Sinha&show_icons=true&theme=radical)
+![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankalp-Sinha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp-Sinha&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 Competitive Programming:
 - Solved **1000+ DSA problems** across platforms
-- Active on **LeetCode** and **Codeforces**
+- Active on **LeetCode** 
 
 ---
 
